@@ -10,5 +10,5 @@ After Starting Apache and MySQL in XAMPP, follow the following steps:</br></br>
 5th Step: Create a database naming “student” and then click on the import tab</br>
 6th Step: Click on browse file and select “student.sql” file which is inside the “db” folder</br>
 7th Step: Click on go.</br>
-###After Creating Database
+### After Creating Database
 8th Step: Open a browser and go to URL “http://localhost/student_enrollment”
