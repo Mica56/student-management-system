@@ -90,7 +90,9 @@ if(isset($_SESSION['user_login'])){
           </div>
     </div>
 
-
+	<footer style="position: fixed;bottom: 0;width: 100%;text-align:center;">
+    	<p>Copyright &copy; <?php echo date('Y') ?></p>
+    </footer>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="../js/jquery-3.5.1.min.js"></script>

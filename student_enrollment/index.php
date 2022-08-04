@@ -140,7 +140,11 @@
           }; ?>
     </div>
 
-
+    <footer style="margin-top: 7.5em;text-align:center;">
+      <div class="container">
+      <p>Copyright &copy; <?php echo date('Y') ?></p>
+      </div>
+    </footer>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="js/jquery-3.5.1.min.js"></script>
